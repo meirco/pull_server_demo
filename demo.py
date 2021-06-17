@@ -15,4 +15,4 @@ def pow(d,e):
 if __name__ == '__main__':
     c = pow(2,3)
     print(c)
-    print('it was good thing go')
+    print('it was good thing good')
